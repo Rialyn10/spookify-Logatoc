@@ -234,7 +234,7 @@ position: absolute;
 } 
 
 footer{
-    background-image: url(images/Vector.png);
+    background-image: url("images/Vector.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: 500px;
