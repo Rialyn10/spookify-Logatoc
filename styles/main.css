@@ -240,13 +240,6 @@ footer{
     height: 500px;
 }
 
-footer{
-    background-image: url("images/Vector.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 500px;
-}
-
 footer p{
     color: #FFFAFB;
     text-align: center;
