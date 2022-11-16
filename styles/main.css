@@ -240,12 +240,11 @@ footer{
     height: 500px;
 }
 
-footer h1{
-color: #F55D3A;
-text-align:center;
-font-size: 50px;
-margin-right: 330px;
-font-family: "Poppins";
+footer{
+    background-image: url("images/Vector.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
 }
 
 footer p{
